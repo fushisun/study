@@ -1,6 +1,5 @@
-def add (x,y,z):
-    a=x+y+z
-    print(f"答案是{a}")
-
-add(2,3,4)
-
+a = {1,2,3,4,5,6}
+c="asdfgh"
+b=dict(zip(c,a))
+print(sorted(a,reverse=True))
+print("c">"ba")
