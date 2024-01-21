@@ -1,0 +1,5 @@
+/.vscode
+/venv_test/Include
+/venv_test/Lib
+/venv_test/Scripts
+/venv_test/pyvenv.cfg
